@@ -8,7 +8,7 @@ Bruteforce various pin locks via DuckyScript!
 ### Just choose the payload thats right for you.
 
 
-|      |Very Fast|Fast|Medium|Slow|Very Slow|Compatibility|
+|      |Very Fast|Fast|Medium|Slow|Very Slow|Extremely Slow|
 |------|---------|----|------|----|---------|--------------|
 |Cracking Time|3.3 Minutes|16.6 Minutes|33.2 Minutes|66.4 Minutes|2 Hours 18 Minutes|1 Hour 40 Minutes|
 |Codes/second|50|10|5|2.5|1.25|1.2-1.4|
